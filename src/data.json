@@ -1,0 +1,244 @@
+{
+    "categories": {
+        "accessories": {
+            "cup": {
+                "ceramic-cup": {
+                    "img": "https://images.pexels.com/photos/1566308/pexels-photo-1566308.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+                    "name": "ceramic-cup",
+                    "price": "200",
+                    "seller": "boomer2",
+                    "category": "accessories"
+                },
+                "mug-cup": {
+                    "img": "https://images.pexels.com/photos/1755215/pexels-photo-1755215.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+                    "name": "mug-cup",
+                    "price": "800",
+                    "seller": "Boomer",
+                    "category": "accessories"
+                }
+            },
+            "dolls": {
+                "modern-dolls": {
+                    "img": "https://images.pexels.com/photos/6623108/pexels-photo-6623108.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+                    "name": "moder-dolls",
+                    "price": "100",
+                    "seller": "jothika",
+                    "category": "accessories"
+                },
+                "teddy-bears": {
+                    "img": "https://images.pexels.com/photos/869517/pexels-photo-869517.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+                    "name": "teddy-bears",
+                    "price": "600",
+                    "seller": "mathivanan",
+                    "category": "accessories"
+                }
+            },
+            "handbag": {
+                "handloom-bag": {
+                    "img": "https://images.pexels.com/photos/4068314/pexels-photo-4068314.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+                    "name": "handloom-bag",
+                    "price": "500",
+                    "seller": "nithin",
+                    "category": "accessories"
+                },
+                "wool-bag": {
+                    "img": "https://images.pexels.com/photos/8365688/pexels-photo-8365688.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+                    "name": "wool-bag",
+                    "price": "1000",
+                    "seller": "mathivanan",
+                    "category": "accessories"
+                }
+            },
+            "plate": {
+                "ceramic-plate": {
+                    "img": "https://images.pexels.com/photos/1907642/pexels-photo-1907642.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+                    "name": "ceramic-plate",
+                    "price": "400",
+                    "seller": "Praveen",
+                    "category": "accessories"
+                },
+                "earthenware": {
+                    "img": "https://images.pexels.com/photos/3010771/pexels-photo-3010771.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+                    "name": "earthenware",
+                    "price": "500",
+                    "seller": "jennifer",
+                    "category": "accessories"
+                }
+            }
+        },
+        "clothing": {
+            "pant": {
+                "formal-pants": {
+                    "img": "https://images.pexels.com/photos/5556655/pexels-photo-5556655.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+                    "name": "formal-pants",
+                    "price": "2000",
+                    "seller": "VBP",
+                    "category": "clothing"
+                },
+                "jeans": {
+                    "img": "https://images.pexels.com/photos/1485031/pexels-photo-1485031.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+                    "name": "jeans",
+                    "price": "2303",
+                    "seller": "Annamalai",
+                    "category": "clothing"
+                }
+            },
+            "salwar": {
+                "chudithar-salwar": {
+                    "img": "https://images.pexels.com/photos/2121559/pexels-photo-2121559.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+                    "name": "chudithar-salwar",
+                    "price": "3400",
+                    "seller": "radi",
+                    "category": "clothing"
+                },
+                "wedding-salwar": {
+                    "img": "https://www.fabfunda.com/blog/wp-content/uploads/2021/08/Wedding-Salwar-Suit.jpg",
+                    "name": "wedding-salwar",
+                    "price": "5000",
+                    "seller": "myethreye",
+                    "category": "clothing"
+                }
+            },
+            "saree": {
+                "cotton-saree": {
+                    "img": "https://images.pexels.com/photos/2747267/pexels-photo-2747267.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+                    "name": "cotton-saree",
+                    "price": "1000",
+                    "seller": "logesh",
+                    "category": "clothing"
+                },
+                "silk-saree": {
+                    "img": "https://images.pexels.com/photos/1999895/pexels-photo-1999895.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+                    "name": "silk-saree",
+                    "price": "2000",
+                    "seller": "Praveen",
+                    "category": "clothing"
+                }
+            },
+            "shirt": {
+                "cotton-shirt": {
+                    "img": "https://images.pexels.com/photos/14097163/pexels-photo-14097163.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+                    "name": "cotton-shirt",
+                    "price": "1500",
+                    "seller": "Varathan",
+                    "category": "clothing"
+                },
+                "formal-shirt": {
+                    "img": "https://images.pexels.com/photos/2313192/pexels-photo-2313192.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+                    "name": "formal-shirt",
+                    "price": "600",
+                    "seller": "lokkesh",
+                    "category": "clothing"
+                }
+            }
+        },
+        "cosmetics": {
+            "beauty-cream": {
+                "pimple-cream": {
+                    "img": "https://images.pexels.com/photos/3321416/pexels-photo-3321416.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+                    "name": "pimple-cream",
+                    "price": "340",
+                    "seller": "vadakbalaji",
+                    "category": "cosmetics"
+                },
+                "whitener-cream": {
+                    "img": "https://images.pexels.com/photos/3321416/pexels-photo-3321416.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+                    "name": "whitener-cream",
+                    "price": "450",
+                    "seller": "Prakash",
+                    "category": "cosmetics"
+                }
+            },
+            "gems": {
+                "diamond": {
+                    "img": "https://images.pexels.com/photos/3266703/pexels-photo-3266703.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+                    "name": "diamond",
+                    "price": "5000",
+                    "seller": "naren",
+                    "category": "cosmetics"
+                },
+                "ruby": {
+                    "img": "https://images.pexels.com/photos/4974359/pexels-photo-4974359.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+                    "name": "ruby",
+                    "price": "4000",
+                    "seller": "VBP",
+                    "category": "cosmetics"
+                }
+            },
+            "hair-oil": {
+                "cocunut-oil": {
+                    "img": "https://images.pexels.com/photos/33783/olive-oil-salad-dressing-cooking-olive.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+                    "name": "cocunut-oil",
+                    "price": "50",
+                    "seller": "john doe",
+                    "category": "cosmetics"
+                },
+                "growth-oil": {
+                    "img": "https://images.pexels.com/photos/33783/olive-oil-salad-dressing-cooking-olive.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+                    "name": "growth-oil",
+                    "price": "40",
+                    "seller": "panther",
+                    "category": "cosmetics"
+                }
+            },
+            "wood": {
+                "lipstick-wood": {
+                    "img": "https://images.pexels.com/photos/965996/pexels-photo-965996.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+                    "name": "lipstick-wood",
+                    "price": "400",
+                    "seller": "black",
+                    "category": "cosmetics"
+                },
+                "wood-comb": {
+                    "img": "https://images.pexels.com/photos/4857706/pexels-photo-4857706.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+                    "name": "wood-comb",
+                    "price": "30",
+                    "seller": "pink",
+                    "category": "cosmetics"
+                }
+            }
+        },
+        "miscellaneous": {
+            "instruments": {
+                "guitar": {
+                    "img": "https://images.pexels.com/photos/1010519/pexels-photo-1010519.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+                    "name": "guitar",
+                    "price": "3456",
+                    "seller": "varun",
+                    "category": "miscellaneous"
+                },
+                "violin": {
+                    "img": "https://images.pexels.com/photos/462447/pexels-photo-462447.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+                    "name": "violin",
+                    "price": "2345",
+                    "seller": "naafi",
+                    "category": "miscellaneous"
+                }
+            },
+            "watch": {
+                "casio-watch": {
+                    "img": "https://images.pexels.com/photos/4124334/pexels-photo-4124334.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+                    "name": "casio-watch",
+                    "price": "10000",
+                    "seller": "jayasri",
+                    "category": "miscellaneous"
+                },
+                "rolex-watch": {
+                    "img": "https://images.pexels.com/photos/364822/rolex-watch-time-luxury-364822.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+                    "name": "rolex-watch",
+                    "price": "90000",
+                    "seller": "kajal",
+                    "category": "miscellaneous"
+                }
+            }
+        }
+    },
+    "users": {
+        "4a16HpjoKAMDPhRNCM8cLDVHUsR2": {
+            "userid": "1@3.com"
+        },
+        "KF4dW22x9dc392wdIVU5fx5r8MT2": {
+            "userid": "1@33.com"
+        }
+    }
+}

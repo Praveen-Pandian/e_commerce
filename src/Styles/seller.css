@@ -1,0 +1,122 @@
+*{
+    box-sizing: border-box;
+    margin: 0%;
+    border: 0ch;
+}
+section{
+    width: 100%;
+    height: 100%;
+}
+.seller-navbar{
+    width: 80%;
+    height: 10%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    position: relative;
+    left: 10%;
+}
+.seller-navbar img{
+    width: 20%;
+    height: 100%;
+}
+#search{
+    width: 30%;
+    height: 60%;
+    border: 10px;
+    border-color: darkgray;
+    border-radius: 10px;
+}
+.buttons{
+    width: 40%;
+    height: 60%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+#add,#logout{
+    width: 40%;
+    height: 100%;
+    border: 0ch;
+    border-radius: 10px;
+    display: block;
+    text-align: center;
+    padding: 2%;
+    text-decoration: none;
+    color: black;
+}
+#add{
+    background-color: steelblue;
+}
+#logout{
+    background-color: whitesmoke;
+}
+
+
+.product-list{
+    width: 80%;
+    height: 100%;
+    margin-top: 3%;
+    position: relative;
+    left: 10%;
+}
+.card2{
+    width: 30%;
+    height: 50%;
+    float: left;
+    background-color: aliceblue;
+    margin: 1%;
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+    padding: 2%;
+    border-radius: 20px;
+}
+.card2 img{
+    width: 300px;
+    height: 350px;
+    padding: 1%;
+}
+.content{
+    width: 100%;
+    height: 20%;
+    display: flex;
+    flex-direction: column;
+}
+.content h1{
+    font-size: x-large;
+    margin: 1%;
+}
+.content p{
+    height: 50%;
+    font-size: large;
+}
+.card2 a{
+    width: 60%;
+    height: 10%;
+    display: block;
+    margin: 0%;
+    text-decoration: none;
+    padding: 1%;
+    background-color: steelblue;
+    color: aliceblue;
+    text-align: center;
+    margin-top: 2%;
+    border: 0ch;
+    border-radius: 10px;
+    position: relative;
+    left: 40%;
+}
+.stats{
+    width: 70%;
+    height: 20%;
+    position: relative;
+    left: 15%;
+    padding: 3%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
